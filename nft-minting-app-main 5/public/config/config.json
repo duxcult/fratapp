@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2D039614Bb534b513682db6149d7e081c24ef7fc",
+  "SCAN_LINK": "https://etherscan.io/token/0x2D039614Bb534b513682db6149d7e081c24ef7fc",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "FRAT BEARS",
+  "SYMBOL": "FB",
+  "MAX_SUPPLY": 5551,
+  "WEI_COST": 49000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fratbears",
+  "SHOW_BACKGROUND": true
+}
